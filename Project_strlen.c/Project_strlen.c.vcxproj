@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{7FC9DABE-C3D3-4867-A5AA-730351DEE81E}</ProjectGuid>
-    <RootNamespace>Project_7_17</RootNamespace>
+    <ProjectGuid>{114CBA9C-F464-4361-A945-EF1082F002F7}</ProjectGuid>
+    <RootNamespace>Project_strlenc</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -64,7 +64,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ice_练习_7_17.c" />
+    <ClCompile Include="ice_my_strlen.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

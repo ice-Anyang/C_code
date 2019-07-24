@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ice_练习_7_17.c">
+    <ClCompile Include="ice_my_strlen.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
