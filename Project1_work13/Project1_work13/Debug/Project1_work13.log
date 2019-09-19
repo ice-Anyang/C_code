@@ -1,0 +1,15 @@
+﻿生成启动时间为 2019/7/25 16:29:13。
+     1>项目“E:\BIT-coming\Bit__Work\learning_code\Project1_work13\Project1_work13\Project1_work13.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ice_text.c
+         ice_text.c
+     1>e:\bit-coming\bit__work\learning_code\project1_work13\project1_work13\ice_text.c(125): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+     1>e:\bit-coming\bit__work\learning_code\project1_work13\project1_work13\ice_text.c(119): warning C4715: “my_find”: 不是所有的控件路径都返回值
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\BIT-coming\Bit__Work\learning_code\Project1_work13\Debug\Project1_work13.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\BIT-coming\Bit__Work\learning_code\Project1_work13\Debug\Project1_work13.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\BIT-coming\Bit__Work\learning_code\Project1_work13\Debug\Project1_work13.lib" /MACHINE:X86 Debug\ice_text.obj
+         Project1_work13.vcxproj -> E:\BIT-coming\Bit__Work\learning_code\Project1_work13\Debug\Project1_work13.exe
+     1>已完成生成项目“E:\BIT-coming\Bit__Work\learning_code\Project1_work13\Project1_work13\Project1_work13.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.40
