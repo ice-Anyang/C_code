@@ -1,6 +1,10 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include<stdio.h>
 #include<stdlib.h>
+<<<<<<< HEAD
+=======
+#include<string.h>
+>>>>>>> b2b4cce5fe2f7ff62f65bb62862d94435275403f
 #include"Home.h"
 st Pt[Maxsize];//定义结构体数组
 /*********************创建家族成员**********************/
